@@ -1,0 +1,7 @@
+#pragma once
+
+#define WIFI_SSID "ENTER_WIFI_NAME"
+#define WIFI_PASS "ENTER_WIFI_PASSWORD"
+
+#define BOT_TOKEN "ENTER_BOT_TOKEN"
+#define CHAT_ID   "ENTER_CHAT_ID"
